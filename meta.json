@@ -29,9 +29,9 @@
   },
   "diag_cards_2_5": {
     "pxWidth": 816,
-    "pxHeight": 902.8125,
+    "pxHeight": 840.9375,
     "widthPt612": 612,
-    "heightPt612": 677.1,
+    "heightPt612": 630.7,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\diag_cards_2_5.png"
   },
   "comp_table_1": {
@@ -50,9 +50,9 @@
   },
   "diag_search_table": {
     "pxWidth": 816,
-    "pxHeight": 689.75,
+    "pxHeight": 671.75,
     "widthPt612": 612,
-    "heightPt612": 517.3,
+    "heightPt612": 503.8,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\diag_search_table.png"
   },
   "quote_verdict": {
@@ -78,30 +78,30 @@
   },
   "workstreams_1_2_3": {
     "pxWidth": 816,
-    "pxHeight": 891.1875,
+    "pxHeight": 770.390625,
     "widthPt612": 612,
-    "heightPt612": 668.4,
+    "heightPt612": 577.8,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\workstreams_1_2_3.png"
   },
   "workstreams_4_5_6": {
     "pxWidth": 816,
-    "pxHeight": 793.390625,
+    "pxHeight": 626.390625,
     "widthPt612": 612,
-    "heightPt612": 595,
+    "heightPt612": 469.8,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\workstreams_4_5_6.png"
   },
   "timeline_90d": {
     "pxWidth": 816,
-    "pxHeight": 416.75,
+    "pxHeight": 354.875,
     "widthPt612": 612,
-    "heightPt612": 312.6,
+    "heightPt612": 266.2,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\timeline_90d.png"
   },
   "pricing_cards": {
     "pxWidth": 816,
-    "pxHeight": 445.984375,
+    "pxHeight": 439.484375,
     "widthPt612": 612,
-    "heightPt612": 334.5,
+    "heightPt612": 329.6,
     "pngPath": "c:\\Users\\SGSey\\Documents\\antigravity\\inturing-ai-visibility\\pipeline\\gdoc_components\\pricing_cards.png"
   },
   "guarantee_cards": {
